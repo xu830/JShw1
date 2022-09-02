@@ -36,3 +36,13 @@ table, td, th {
 #address {
     color:hotpink;
 }
+#searchInput {
+    border-style: solid;
+    border-color: lightgrey;
+    border-radius: 30px;
+    width: 60%;
+    height: 40px;
+    font-size: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
