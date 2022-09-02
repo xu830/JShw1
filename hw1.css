@@ -8,8 +8,20 @@ table, td, th {
     text-align: center;
 }
 .cadd {
-    padding-left: 80px;
-    padding-right: 80px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.cname {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.cage {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.cnum {
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 #name {
