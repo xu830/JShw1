@@ -23,6 +23,9 @@ table, td, th {
     padding-left: 20px;
     padding-right: 20px;
 }
+.task3 {
+    color: darkgreen;
+}
 
 #name {
     color: aqua;
